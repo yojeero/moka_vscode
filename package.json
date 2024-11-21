@@ -1,0 +1,28 @@
+{
+  "name": "moka",
+  "displayName": "Moka",
+  "description": "dark VSCode theme",
+  "version": "2.0.0",
+  "publisher": "yojeero",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "icon": "icon.png",
+	"homepage": "https://github.com/yojeero/moka_vscode/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yojeero/moka_vscode/"
+	},
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Moka",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Moka-color-theme.json"
+      }
+    ]
+  }
+}
