@@ -698,9 +698,6 @@
 				"foreground": "#588157"
 			}
 		},
-
-		// yoko scope
-
 		{
 			"name": "HTML punctuation",
 			"scope": [						
